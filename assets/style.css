@@ -1,0 +1,36 @@
+.navbar{
+    height: 92px;
+    background: transparent;
+    width: 100%;
+    position: fixed;
+    border-bottom:2px solid #fff;
+}
+.nav-item{
+    font-family: courier new;
+    size: 27;
+    margin-left: 80px;
+}
+section{
+    width: 100%;
+    height: fit-content;
+    background-image: url(research\ paper\ .png);
+    background-size: cover;
+}
+.textbox{
+    font-family:courier new; 
+    size:45;
+    color:white;
+    width: 200px;
+    height: 200px;
+    padding-top: 100px;
+    font-size: large;
+}
+.navtextbox{
+    background-color: #dfdfdf;
+    color:black;
+     padding:4px;
+     width: 170px;
+     height: max-content;
+      font-family: 'Courier New';
+      border-radius: 4px;
+}
