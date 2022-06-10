@@ -9,6 +9,7 @@
 .navbar.sticky {
     background-color: #cecece;
     border-bottom: 2px solid black;
+    
 }
 .navbar.sticky a{
     color: black !important;
